@@ -1,6 +1,6 @@
 **1. Apa yang dimaksud dengan :** <br>
-    - TypeScript
-        TypeScript adalah sebuah bahasa pemrograman open-source yang dikembangkan oleh Microsoft. Ini adalah superset dari JavaScript yang ditambahkan dengan fitur-fitur seperti static typing (pengetikan statis), yang membuatnya menjadi lebih kuat dan lebih mudah untuk melakukan refactoring dan debugging dalam pengembangan perangkat lunak. TypeScript dikompilasi menjadi JavaScript agar dapat dijalankan di berbagai lingkungan.
+    <i>TypeScript<i>
+        <p>TypeScript adalah sebuah bahasa pemrograman open-source yang dikembangkan oleh Microsoft. Ini adalah superset dari JavaScript yang ditambahkan dengan fitur-fitur seperti static typing (pengetikan statis), yang membuatnya menjadi lebih kuat dan lebih mudah untuk melakukan refactoring dan debugging dalam pengembangan perangkat lunak. TypeScript dikompilasi menjadi JavaScript agar dapat dijalankan di berbagai lingkungan.</p>
 
     - ESLint
         ESLint adalah alat (tool) linting untuk JavaScript yang digunakan untuk menganalisis kode JavaScript dalam pengembangan perangkat lunak. Tujuan utama ESLint adalah untuk menemukan dan secara otomatis memperbaiki pola kode yang tidak sesuai dengan pedoman (coding style) atau aturan (rules) tertentu yang telah ditentukan oleh tim pengembangan. Ini membantu memastikan kualitas kode yang lebih baik, konsistensi, dan mengurangi kemungkinan bug.
