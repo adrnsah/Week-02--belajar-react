@@ -53,8 +53,8 @@
 **3. Penjelasan perubahan tanpa me-refresh halaman web site.**
     Pada proyek React yang menggunakan Next, perubahan kode dapat terlihat secara langsung tanpa perlu menjalankan kembali perintah "npm run dev" atau me-reload halaman di browser, berkat fitur Hot Module Replacement (HMR) yang disediakan oleh Next. HMR memungkinkan modul yang berubah diganti secara langsung pada saat runtime tanpa mengganggu keadaan aplikasi yang sedang berjalan, sehingga mempercepat siklus pengembangan dan membuat pengembangan lebih responsif dan efisien.
 
-**4. Output**
-    ![Next.js](./output/next.jpg)
+**4. Output**<br>
+![Next.js](./output/next.jpg)
 
 Next.js adalah kerangka kerja React yang dirancang untuk mempermudah pengembangan aplikasi web, terutama aplikasi dengan tata letak halaman statis (SSG) dan peningkatan pada sisi klien (CSR). Fitur-fitur utama Next.js meliputi pre-rendering, routing dinamis, dan dukungan untuk API routing dan server-side rendering (SSR). Memiliki integrasi yang baik dengan React serta kemudahan penggunaan untuk membuat aplikasi dengan routing yang jelas dan struktur file yang terorganisir.
 
