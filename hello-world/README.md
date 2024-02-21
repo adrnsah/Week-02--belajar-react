@@ -67,6 +67,3 @@ Gatsby adalah kerangka kerja pembangunan situs web yang memanfaatkan React untuk
 
 Perbedaan utama antara ketiganya adalah fokus dan pendekatan pengembangan yang berbeda. Next.js lebih berfokus pada aplikasi web dengan pre-rendering, Remix menawarkan pendekatan fullstack dengan integrasi logika di sisi server dan klien, sedangkan Gatsby lebih berfokus pada pembuatan situs web statis yang dioptimalkan untuk kinerja. Pemilihan kerangka kerja tergantung pada kebutuhan dan preferensi pengembang serta kompleksitas dari proyek yang akan dibangun.
 
-Nama    : Adriansyah
-NIM     : 2341728034
-Kelas   : TI 3 B
