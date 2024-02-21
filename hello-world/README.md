@@ -1,4 +1,4 @@
-1. Apa yang dimaksud dengan :
+### 1. Apa yang dimaksud dengan :
     - TypeScript 
     - ESLint
     - Tailwind CSS
@@ -21,7 +21,7 @@
     - Import alias
         Import alias adalah cara untuk memberikan nama alternatif atau alias untuk file atau direktori yang diimpor dalam kode JavaScript atau TypeScript. Ini memungkinkan pengembang untuk merujuk ke file atau direktori dengan nama yang lebih mudah dibaca atau singkat daripada path lengkapnya. Alias ini biasanya didefinisikan dalam konfigurasi proyek dan dapat digunakan untuk meningkatkan kejelasan dan keterbacaan kode.
 
-2. Berikut adalah penjelasan tentang setiap folder dan file yang biasanya ada dalam struktur proyek   Next.js (sebuah framework React.js):
+### 2. Berikut adalah penjelasan tentang setiap folder dan file yang biasanya ada dalam struktur proyek   Next.js (sebuah framework React.js):
     - .git: Folder ini digunakan untuk menyimpan semua file dan riwayat perubahan dari versi kontrol Git. Ini termasuk riwayat commit, cabang, dan konfigurasi Git lainnya.
 
     - node_modules: Folder ini berisi semua paket dan dependensi dari proyek yang diinstal menggunakan npm atau Yarn. Ini termasuk paket-paket yang didefinisikan dalam file 'package.json'.
@@ -50,10 +50,10 @@
 
     - ts.config.js : Berkas konfigurasi TypeScript untuk proyek Next.js, digunakan untuk menyesuaikan pengaturan kompilasi TypeScript dalam proyek.
 
-3. Penjelasan perubahan tanpa me-refresh halaman web site.
+### 3. Penjelasan perubahan tanpa me-refresh halaman web site.
     Pada proyek React yang menggunakan Next, perubahan kode dapat terlihat secara langsung tanpa perlu menjalankan kembali perintah "npm run dev" atau me-reload halaman di browser, berkat fitur Hot Module Replacement (HMR) yang disediakan oleh Next. HMR memungkinkan modul yang berubah diganti secara langsung pada saat runtime tanpa mengganggu keadaan aplikasi yang sedang berjalan, sehingga mempercepat siklus pengembangan dan membuat pengembangan lebih responsif dan efisien.
 
-4.  Output
+### 4.  Output
     ![ ](./output/next.jpg)
     Next.js adalah kerangka kerja React yang dirancang untuk mempermudah pengembangan aplikasi web, terutama aplikasi dengan tata letak halaman statis (SSG) dan peningkatan pada sisi klien (CSR). Fitur-fitur utama Next.js meliputi pre-rendering, routing dinamis, dan dukungan untuk API routing dan server-side rendering (SSR). Memiliki integrasi yang baik dengan React serta kemudahan penggunaan untuk membuat aplikasi dengan routing yang jelas dan struktur file yang terorganisir.
 
