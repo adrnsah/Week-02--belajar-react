@@ -1,18 +1,18 @@
 **1. Apa yang dimaksud dengan :** <br>
-    <i>TypeScript</i>
-        <p>TypeScript adalah sebuah bahasa pemrograman open-source yang dikembangkan oleh Microsoft. Ini adalah superset dari JavaScript yang ditambahkan dengan fitur-fitur seperti static typing (pengetikan statis), yang membuatnya menjadi lebih kuat dan lebih mudah untuk melakukan refactoring dan debugging dalam pengembangan perangkat lunak. TypeScript dikompilasi menjadi JavaScript agar dapat dijalankan di berbagai lingkungan.</p>
+    - TypeScript
+        TypeScript adalah sebuah bahasa pemrograman open-source yang dikembangkan oleh Microsoft. Ini adalah superset dari JavaScript yang ditambahkan dengan fitur-fitur seperti static typing (pengetikan statis), yang membuatnya menjadi lebih kuat dan lebih mudah untuk melakukan refactoring dan debugging dalam pengembangan perangkat lunak. TypeScript dikompilasi menjadi JavaScript agar dapat dijalankan di berbagai lingkungan.
 
-    <i>ESLint</i>
-        <p>ESLint adalah alat (tool) linting untuk JavaScript yang digunakan untuk menganalisis kode JavaScript dalam pengembangan perangkat lunak. Tujuan utama ESLint adalah untuk menemukan dan secara otomatis memperbaiki pola kode yang tidak sesuai dengan pedoman (coding style) atau aturan (rules) tertentu yang telah ditentukan oleh tim pengembangan. Ini membantu memastikan kualitas kode yang lebih baik, konsistensi, dan mengurangi kemungkinan bug.</p>
+    - ESLint
+        ESLint adalah alat (tool) linting untuk JavaScript yang digunakan untuk menganalisis kode JavaScript dalam pengembangan perangkat lunak. Tujuan utama ESLint adalah untuk menemukan dan secara otomatis memperbaiki pola kode yang tidak sesuai dengan pedoman (coding style) atau aturan (rules) tertentu yang telah ditentukan oleh tim pengembangan. Ini membantu memastikan kualitas kode yang lebih baik, konsistensi, dan mengurangi kemungkinan bug.
 
-    <i>Tailwind CSS</i>
-        <p>Tailwind CSS adalah sebuah framework CSS yang memungkinkan pengembang untuk membuat antarmuka pengguna (UI) dengan cepat menggunakan utility classes. Berbeda dengan beberapa framework CSS lainnya yang memiliki komponen-komponen yang sudah jadi, Tailwind CSS memberikan kustomisasi yang tinggi dengan memberikan sejumlah besar utility classes yang dapat diterapkan langsung pada elemen HTML. Ini memungkinkan pengembang untuk membangun desain web yang unik tanpa menulis CSS khusus.</p>
+    - Tailwind CSS
+        Tailwind CSS adalah sebuah framework CSS yang memungkinkan pengembang untuk membuat antarmuka pengguna (UI) dengan cepat menggunakan utility classes. Berbeda dengan beberapa framework CSS lainnya yang memiliki komponen-komponen yang sudah jadi, Tailwind CSS memberikan kustomisasi yang tinggi dengan memberikan sejumlah besar utility classes yang dapat diterapkan langsung pada elemen HTML. Ini memungkinkan pengembang untuk membangun desain web yang unik tanpa menulis CSS khusus.
 
-    <i>App Router</i>
-        <p>App Router mengacu pada bagian dari aplikasi (biasanya dalam konteks web atau pengembangan aplikasi seluler) yang bertanggung jawab untuk mengelola rute atau navigasi antara berbagai halaman atau komponen dalam aplikasi. Ini bisa berupa pustaka atau framework yang menyediakan fungsi untuk menangani perubahan URL dan memastikan bahwa aplikasi menampilkan halaman yang sesuai dengan URL yang diminta oleh pengguna.</p>
+    - App Router
+         App Router mengacu pada bagian dari aplikasi (biasanya dalam konteks web atau pengembangan aplikasi seluler) yang bertanggung jawab untuk mengelola rute atau navigasi antara berbagai halaman atau komponen dalam aplikasi. Ini bisa berupa pustaka atau framework yang menyediakan fungsi untuk menangani perubahan URL dan memastikan bahwa aplikasi menampilkan halaman yang sesuai dengan URL yang diminta oleh pengguna.
 
-    <i>Import alias</i>
-        <p>Import alias adalah cara untuk memberikan nama alternatif atau alias untuk file atau direktori yang diimpor dalam kode JavaScript atau TypeScript. Ini memungkinkan pengembang untuk merujuk ke file atau direktori dengan nama yang lebih mudah dibaca atau singkat daripada path lengkapnya. Alias ini biasanya didefinisikan dalam konfigurasi proyek dan dapat digunakan untuk meningkatkan kejelasan dan keterbacaan kode.</p>
+    - Import alias
+        Import alias adalah cara untuk memberikan nama alternatif atau alias untuk file atau direktori yang diimpor dalam kode JavaScript atau TypeScript. Ini memungkinkan pengembang untuk merujuk ke file atau direktori dengan nama yang lebih mudah dibaca atau singkat daripada path lengkapnya. Alias ini biasanya didefinisikan dalam konfigurasi proyek dan dapat digunakan untuk meningkatkan kejelasan dan keterbacaan kode.
 
 **2. Berikut adalah penjelasan tentang setiap folder dan file yang biasanya ada dalam struktur proyek   Next.js (sebuah framework React.js):**<br>
     - .git: Folder ini digunakan untuk menyimpan semua file dan riwayat perubahan dari versi kontrol Git. Ini termasuk riwayat commit, cabang, dan konfigurasi Git lainnya.
