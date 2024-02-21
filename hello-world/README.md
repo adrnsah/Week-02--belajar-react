@@ -1,11 +1,4 @@
-**1. Apa yang dimaksud dengan :**
-    - TypeScript 
-    - ESLint
-    - Tailwind CSS
-    - App Router
-    - Import alias
-    
-    Jawaban:
+**1. Apa yang dimaksud dengan :** <br>
     - TypeScript
         TypeScript adalah sebuah bahasa pemrograman open-source yang dikembangkan oleh Microsoft. Ini adalah superset dari JavaScript yang ditambahkan dengan fitur-fitur seperti static typing (pengetikan statis), yang membuatnya menjadi lebih kuat dan lebih mudah untuk melakukan refactoring dan debugging dalam pengembangan perangkat lunak. TypeScript dikompilasi menjadi JavaScript agar dapat dijalankan di berbagai lingkungan.
 
@@ -21,7 +14,7 @@
     - Import alias
         Import alias adalah cara untuk memberikan nama alternatif atau alias untuk file atau direktori yang diimpor dalam kode JavaScript atau TypeScript. Ini memungkinkan pengembang untuk merujuk ke file atau direktori dengan nama yang lebih mudah dibaca atau singkat daripada path lengkapnya. Alias ini biasanya didefinisikan dalam konfigurasi proyek dan dapat digunakan untuk meningkatkan kejelasan dan keterbacaan kode.
 
-**2. Berikut adalah penjelasan tentang setiap folder dan file yang biasanya ada dalam struktur proyek   Next.js (sebuah framework React.js):**
+**2. Berikut adalah penjelasan tentang setiap folder dan file yang biasanya ada dalam struktur proyek   Next.js (sebuah framework React.js):**<br>
     - .git: Folder ini digunakan untuk menyimpan semua file dan riwayat perubahan dari versi kontrol Git. Ini termasuk riwayat commit, cabang, dan konfigurasi Git lainnya.
 
     - node_modules: Folder ini berisi semua paket dan dependensi dari proyek yang diinstal menggunakan npm atau Yarn. Ini termasuk paket-paket yang didefinisikan dalam file 'package.json'.
@@ -50,7 +43,7 @@
 
     - ts.config.js : Berkas konfigurasi TypeScript untuk proyek Next.js, digunakan untuk menyesuaikan pengaturan kompilasi TypeScript dalam proyek.
 
-**3. Penjelasan perubahan tanpa me-refresh halaman web site.**
+**3. Penjelasan perubahan tanpa me-refresh halaman web site.**<br>
     Pada proyek React yang menggunakan Next, perubahan kode dapat terlihat secara langsung tanpa perlu menjalankan kembali perintah "npm run dev" atau me-reload halaman di browser, berkat fitur Hot Module Replacement (HMR) yang disediakan oleh Next. HMR memungkinkan modul yang berubah diganti secara langsung pada saat runtime tanpa mengganggu keadaan aplikasi yang sedang berjalan, sehingga mempercepat siklus pengembangan dan membuat pengembangan lebih responsif dan efisien.
 
 **4. Output**<br>
