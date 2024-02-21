@@ -54,12 +54,22 @@
     Pada proyek React yang menggunakan Next, perubahan kode dapat terlihat secara langsung tanpa perlu menjalankan kembali perintah "npm run dev" atau me-reload halaman di browser, berkat fitur Hot Module Replacement (HMR) yang disediakan oleh Next. HMR memungkinkan modul yang berubah diganti secara langsung pada saat runtime tanpa mengganggu keadaan aplikasi yang sedang berjalan, sehingga mempercepat siklus pengembangan dan membuat pengembangan lebih responsif dan efisien.
 
 **4. Output**
-    <br>![ ](./output/next.jpg)<br>
-    Next.js adalah kerangka kerja React yang dirancang untuk mempermudah pengembangan aplikasi web, terutama aplikasi dengan tata letak halaman statis (SSG) dan peningkatan pada sisi klien (CSR). Fitur-fitur utama Next.js meliputi pre-rendering, routing dinamis, dan dukungan untuk API routing dan server-side rendering (SSR). Memiliki integrasi yang baik dengan React serta kemudahan penggunaan untuk membuat aplikasi dengan routing yang jelas dan struktur file yang terorganisir.<br>
+    ![Next.js](./output/next.jpg)
 
-    ![ ](./output/remix.jpg)<br>
-    Remix adalah kerangka kerja baru untuk membangun aplikasi web modern yang memungkinkan pengembang menggunakan pendekatan "Fullstack JAMStack". Remix menawarkan kemampuan untuk mengintegrasikan logika bisnis di sisi server dan di sisi klien dengan mudah, serta memberikan fleksibilitas dalam menentukan bagaimana dan di mana komponen aplikasi di-render. Menawarkan fitur-fitur seperti praperendering, routing yang kuat, dan pengelolaan data yang baik.<br>
-    ![ ](./output/gatsby.jpg)<br>
-    Gatsby adalah kerangka kerja pembangunan situs web yang memanfaatkan React untuk membuat situs web yang cepat dan efisien. Dikenal dengan kemampuannya untuk membangun situs web statis yang dioptimalkan untuk kinerja. Gatsby menawarkan berbagai plugin dan tema yang memudahkan pengembang dalam menambahkan fitur-fitur dan fungsionalitas ke situs web mereka dengan cepat.
+Next.js adalah kerangka kerja React yang dirancang untuk mempermudah pengembangan aplikasi web, terutama aplikasi dengan tata letak halaman statis (SSG) dan peningkatan pada sisi klien (CSR). Fitur-fitur utama Next.js meliputi pre-rendering, routing dinamis, dan dukungan untuk API routing dan server-side rendering (SSR). Memiliki integrasi yang baik dengan React serta kemudahan penggunaan untuk membuat aplikasi dengan routing yang jelas dan struktur file yang terorganisir.
 
-    Perbedaan utama antara ketiganya adalah fokus dan pendekatan pengembangan yang berbeda. Next.js lebih berfokus pada aplikasi web dengan pre-rendering, Remix menawarkan pendekatan fullstack dengan integrasi logika di sisi server dan klien, sedangkan Gatsby lebih berfokus pada pembuatan situs web statis yang dioptimalkan untuk kinerja. Pemilihan kerangka kerja tergantung pada kebutuhan dan preferensi pengembang serta kompleksitas dari proyek yang akan dibangun.
+---
+
+![Remix](./output/remix.jpg)
+
+Remix adalah kerangka kerja baru untuk membangun aplikasi web modern yang memungkinkan pengembang menggunakan pendekatan "Fullstack JAMStack". Remix menawarkan kemampuan untuk mengintegrasikan logika bisnis di sisi server dan di sisi klien dengan mudah, serta memberikan fleksibilitas dalam menentukan bagaimana dan di mana komponen aplikasi di-render. Menawarkan fitur-fitur seperti praperendering, routing yang kuat, dan pengelolaan data yang baik.
+
+---
+
+![Gatsby](./output/gatsby.jpg)
+
+Gatsby adalah kerangka kerja pembangunan situs web yang memanfaatkan React untuk membuat situs web yang cepat dan efisien. Dikenal dengan kemampuannya untuk membangun situs web statis yang dioptimalkan untuk kinerja. Gatsby menawarkan berbagai plugin dan tema yang memudahkan pengembang dalam menambahkan fitur-fitur dan fungsionalitas ke situs web mereka dengan cepat.
+
+---
+
+Perbedaan utama antara ketiganya adalah fokus dan pendekatan pengembangan yang berbeda. Next.js lebih berfokus pada aplikasi web dengan pre-rendering, Remix menawarkan pendekatan fullstack dengan integrasi logika di sisi server dan klien, sedangkan Gatsby lebih berfokus pada pembuatan situs web statis yang dioptimalkan untuk kinerja. Pemilihan kerangka kerja tergantung pada kebutuhan dan preferensi pengembang serta kompleksitas dari proyek yang akan dibangun.
